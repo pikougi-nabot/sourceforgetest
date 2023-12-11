@@ -1,0 +1,198 @@
+x <!--
+x Table structure for `actor`
+x -->
+x
+x {| class="wikitable" style="text-align:center;"
+x |+'''actor'''
+x |- style="background:#ffdead;"
+x ! style="background:#ffffff" |
+x  | actor_id
+x  | actor_user
+x  | actor_name
+x |-
+x ! Type
+x  | bigint(20) unsigned
+x  | int(10) unsigned
+x  | varbinary(255)
+x |-
+x ! Null
+x  | NO
+x  | YES
+x  | NO
+x |-
+x ! Default
+x  |
+x  |
+x  |
+x |-
+x ! Extra
+x  | auto_increment
+x  |
+x  |
+x |}
+x
+x
+x <!--
+x Table data for `actor`
+x -->
+x
+x {| class="wikitable sortable" style="text-align:center;"
+x |+'''actor'''
+x |-
+x  ! actor_id
+x  ! actor_user
+x  ! actor_name
+x |-
+x  | 1
+x  | 1
+x  | PiKougi.nAbot
+x |-
+x  | 2
+x  | 2
+x  | MediaWiki default
+x |}
+x
+x
+x <!--
+x Table structure for `archive`
+x -->
+x
+x {| class="wikitable" style="text-align:center;"
+x |+'''archive'''
+x |- style="background:#ffdead;"
+x ! style="background:#ffffff" |
+x  | ar_id
+x  | ar_namespace
+x  | ar_title
+x  | ar_comment_id
+x  | ar_actor
+x  | ar_timestamp
+x  | ar_minor_edit
+x  | ar_rev_id
+x  | ar_deleted
+x  | ar_len
+x  | ar_page_id
+x  | ar_parent_id
+x  | ar_sha1
+x |-
+x ! Type
+x  | int(10) unsigned
+x  | int(11)
+x  | varbinary(255)
+x  | bigint(20) unsigned
+x  | bigint(20) unsigned
+x  | binary(14)
+x  | tinyint(4)
+x  | int(10) unsigned
+x  | tinyint(3) unsigned
+x  | int(10) unsigned
+x  | int(10) unsigned
+x  | int(10) unsigned
+x  | varbinary(32)
+x |-
+x ! Null
+x  | NO
+x  | NO
+x  | NO
+x  | NO
+x  | NO
+x  | NO
+x  | NO
+x  | NO
+x  | NO
+x  | YES
+x  | YES
+x  | YES
+x  | NO
+x |-
+x ! Default
+x  |
+x  | 0
+x  |
+x  |
+x  |
+x  |
+x  | 0
+x  |
+x  | 0
+x  |
+x  |
+x  |
+x  |
+x |-
+x ! Extra
+x  | auto_increment
+x  |
+x  |
+x  |
+x  |
+x  |
+x  |
+x  |
+x  |
+x  |
+x  |
+x  |
+x  |
+x |}
+x
+x
+x <!--
+x Table data for `archive`
+x -->
+x
+x {| class="wikitable sortable" style="text-align:center;"
+x |+'''archive'''
+x |-
+x  ! ar_id
+x  ! ar_namespace
+x  ! ar_title
+x  ! ar_comment_id
+x  ! ar_actor
+x  ! ar_timestamp
+x  ! ar_minor_edit
+x  ! ar_rev_id
+x  ! ar_deleted
+x  ! ar_len
+x  ! ar_page_id
+x  ! ar_parent_id
+x  ! ar_sha1
+x |}
+x
+x
+x <!--
+x Table structure for `bot_passwords`
+x -->
+x
+x {| class="wikitable" style="text-align:center;"
+x |+'''bot_passwords'''
+x |- style="background:#ffdead;"
+x ! style="background:#ffffff" |
+x  | bp_user
+x  | bp_app_id
+x  | bp_password
+x  | bp_token
+x  | bp_restrictions
+x  | bp_grants
+x |-
+x ! Type
+x  | int(10) unsigned
+x  | varbinary(32)
+x  | tinyblob
+x  | binary(32)
+x  | blob
+x  | blob
+x |-
+x ! Null
+x  | NO
+x  | NO
+x  | NO
+x  | NO
+x  | NO
+x  | NO
+x |-
+x ! Default
+x  |
+x  |
+x  |
+x  |
