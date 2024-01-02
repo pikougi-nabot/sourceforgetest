@@ -1,7 +1,7 @@
 {| style="text-align:center;"
-! style="font-size: large" ! test
-! style="font-size: small" ! test
+! style="font-size: larger" | test
+! style="font-size: smaller" | test
 |-
-| test
-| test
+| style="font-size: 50px" | test
+| style="font-size: 10px" | test
 |}
