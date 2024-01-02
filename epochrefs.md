@@ -1,4 +1,5 @@
 from Spacing Modifier Letters & Phonetic Extensions:
+
 ᴬᵃᴮᵇᴰᵈᴱᵉᴳᵍᴴʰᴵ?ᴶʲᴷᵏᴸˡᴹᵐᴺ?ᴼᵒᴾᵖᴿʳ?ˢᵀᵗᵁᵘ?ᵛᵂʷˣʸ
 
 | ʸᵉᵃʳ | ᴹᴹ | ᴰᴰ | ʰʰ | ᵐᵐ | ˢˢ | ID | file |  | term |
