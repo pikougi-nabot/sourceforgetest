@@ -1,6 +1,6 @@
 {| style="text-align:center;"
-! font-size=large | test
-! font-size=small | test
+! style="font-size: large" | test
+! style="font-size: small" | test
 |-
 | test
 | test
