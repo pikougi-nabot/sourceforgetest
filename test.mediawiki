@@ -1,4 +1,4 @@
-{| style="color: red;"
+{| color="red"
 ! align="right" | test
 ! align="left" | test
 |-
