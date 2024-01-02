@@ -1,3 +1,3 @@
-| **<sub><sup>YYYY</sup></sub>** | <sub><sup>MM</sup></sub> | <sub><sup>DD</sup></sub> | <sub><sup>hh</sup></sub> | <sub><sup>mm</sup></sub> | <sub><sup>ss</sup></sub> | <sub><sup>ID</sup></sub> | <sub><sup>file</sup></sub> |  | <sub><sup>term</sup></sub> |
+| YYYY | MM | DD | hh | mm | ss | ID | file |  | term |
 | - | - | - | - | - | - | - | - | - | - |
 | <sub><sup>1988</sup></sub> | <sub><sup>11</sup></sub> | <sub><sup>29</sup></sub> | <sub><sup>21</sup></sub> | <sub><sup>23</sup></sub> | <sub><sup>27</sup></sub> | <sub><sup>243739784</sup></sub> | <sub><sup>wordnetcode.princeton.edu/1.2/1.2.tar.gz/1.2/dbfiles/noun.artifact</sup></sub> |  | <sub><sup>WordNet</sup></sub> |
