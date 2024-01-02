@@ -3,5 +3,5 @@
 ! style="font-size: smaller;" | test
 |-
 | style="font-size: 50%;" | test
-| style="font-size: 10%;" | test
+| style="text-color: red;" | test
 |}
