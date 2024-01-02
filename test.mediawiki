@@ -1,7 +1,7 @@
-{| color="red"
+{| style="color: red"
 ! align="right" | test
 ! align="left" | test
 |-
-| style="font-size: 50%;" | testtesttest
+| style="font-size: 50pt" | testtesttest
 | style="text-color: red;" | testtesttest
 |}
