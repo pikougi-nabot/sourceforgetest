@@ -1,4 +1,4 @@
-{| class="wikitable" style="text-align:center;"
+{| style="text-align:center;"
 ! test
 ! test
 |-
