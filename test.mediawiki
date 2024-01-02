@@ -1,6 +1,6 @@
 {|
 ! test
-! <sub><sup>test</sub></sup>
+! <sub><sup>test</sup></sub>
 |-
 | <sub><sup>testtesttest</sup></sub>
 | testtesttest
